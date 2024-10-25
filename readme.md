@@ -13,8 +13,10 @@ column method and row wise method
  ACS_ABCD_from_TF
 enter number of rows
 2
+//
 enter number of columns
 2
+//
 enter the numerator for (1,1) 
 Enter numbers separated by space: 
 4 -10
