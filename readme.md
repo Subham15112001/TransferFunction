@@ -10,7 +10,7 @@ column method and row wise method
 
 ## Example
 
->> ACS_ABCD_from_TF
+ ACS_ABCD_from_TF
 enter number of rows
 2
 enter number of columns
